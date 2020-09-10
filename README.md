@@ -28,7 +28,7 @@
 </div>
 
 
-
+### Note 
 Advanced line following robot using PID.
 No need for adjusting the gain of the sensors, just keep on the track and robot will atomaticlally callibrate its sensors based 
 on maximum and minimum read by the sensors.
